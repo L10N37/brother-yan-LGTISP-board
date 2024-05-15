@@ -13,5 +13,5 @@ lines, adding or modifying one line of code (it's outlined in UberNee install gu
 I also use a specific library, outlined in the Ubernee guide as well. I received some bare IC's a while ago and realised I couldn't even flash them, so came V2. 
 I used the reference pinouts (pictured) and a multimeter on the adapter to confirm which pins went where.
 
-V1: Flashes dev/ prototyping boards only
+V1: Flashes dev/ prototyping boards only <br />
 V2: Fit QFP32 to DIP28 adapters to flash bare LGT8F328P IC's
